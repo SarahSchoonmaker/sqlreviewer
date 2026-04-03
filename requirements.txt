@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlglot
+sentence-transformers
+psycopg2-binary
+sqlalchemy
+pgvector
+python-dotenv
+python-jose
+passlib[bcrypt]
